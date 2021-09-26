@@ -29,4 +29,4 @@ Write database migrations using Knex's migration tool
 
 Deploy your backend server to a cloud service
 
-Run npm install & npm test
+
